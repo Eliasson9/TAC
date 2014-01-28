@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-24T09:30:36</date>
+  <millis>1390552236431</millis>
+  <sequence>0</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Starting TAC AgentWare version Beta 9</message>
+</record>
+<record>
+  <date>2014-01-24T09:30:36</date>
+  <millis>1390552236431</millis>
+  <sequence>1</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Using agent implementation se.sics.tac.aw.DummyAgent</message>
+</record>
+<record>
+  <date>2014-01-24T09:30:36</date>
+  <millis>1390552236431</millis>
+  <sequence>2</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Using TAC server localhost at port 8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:30:36</date>
+  <millis>1390552236433</millis>
+  <sequence>3</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>10</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:30:46</date>
+  <millis>1390552246463</millis>
+  <sequence>4</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>11</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:30:46</date>
+  <millis>1390552246966</millis>
+  <sequence>5</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>11</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:30:56</date>
+  <millis>1390552256979</millis>
+  <sequence>6</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>12</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:30:57</date>
+  <millis>1390552257480</millis>
+  <sequence>7</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>12</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:31:07</date>
+  <millis>1390552267491</millis>
+  <sequence>8</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>13</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:31:07</date>
+  <millis>1390552267993</millis>
+  <sequence>9</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>13</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:31:18</date>
+  <millis>1390552278006</millis>
+  <sequence>10</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>14</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:31:18</date>
+  <millis>1390552278508</millis>
+  <sequence>11</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>14</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:31:28</date>
+  <millis>1390552288520</millis>
+  <sequence>12</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>15</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:31:29</date>
+  <millis>1390552289022</millis>
+  <sequence>13</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>15</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:31:39</date>
+  <millis>1390552299033</millis>
+  <sequence>14</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>16</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:31:39</date>
+  <millis>1390552299535</millis>
+  <sequence>15</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>16</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:31:49</date>
+  <millis>1390552309541</millis>
+  <sequence>16</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>17</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:31:50</date>
+  <millis>1390552310043</millis>
+  <sequence>17</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>17</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:32:00</date>
+  <millis>1390552320046</millis>
+  <sequence>18</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>18</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:32:00</date>
+  <millis>1390552320548</millis>
+  <sequence>19</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>18</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:32:10</date>
+  <millis>1390552330560</millis>
+  <sequence>20</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>19</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:32:11</date>
+  <millis>1390552331061</millis>
+  <sequence>21</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>19</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:32:21</date>
+  <millis>1390552341072</millis>
+  <sequence>22</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>20</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:32:21</date>
+  <millis>1390552341574</millis>
+  <sequence>23</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>20</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:32:31</date>
+  <millis>1390552351586</millis>
+  <sequence>24</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>21</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:32:32</date>
+  <millis>1390552352088</millis>
+  <sequence>25</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>21</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:32:42</date>
+  <millis>1390552362092</millis>
+  <sequence>26</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>22</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:32:42</date>
+  <millis>1390552362593</millis>
+  <sequence>27</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>22</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:32:52</date>
+  <millis>1390552372597</millis>
+  <sequence>28</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>23</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:32:53</date>
+  <millis>1390552373098</millis>
+  <sequence>29</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>23</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:33:03</date>
+  <millis>1390552383111</millis>
+  <sequence>30</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>24</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:33:03</date>
+  <millis>1390552383613</millis>
+  <sequence>31</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>24</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:33:13</date>
+  <millis>1390552393617</millis>
+  <sequence>32</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>25</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:33:14</date>
+  <millis>1390552394121</millis>
+  <sequence>33</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>25</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:33:24</date>
+  <millis>1390552404133</millis>
+  <sequence>34</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>26</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:33:24</date>
+  <millis>1390552404634</millis>
+  <sequence>35</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>26</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:33:34</date>
+  <millis>1390552414646</millis>
+  <sequence>36</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>27</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:33:35</date>
+  <millis>1390552415148</millis>
+  <sequence>37</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>27</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:33:45</date>
+  <millis>1390552425160</millis>
+  <sequence>38</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>28</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:33:45</date>
+  <millis>1390552425661</millis>
+  <sequence>39</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>28</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:33:55</date>
+  <millis>1390552435672</millis>
+  <sequence>40</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>29</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:33:56</date>
+  <millis>1390552436173</millis>
+  <sequence>41</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>29</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:34:06</date>
+  <millis>1390552446184</millis>
+  <sequence>42</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>30</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:34:06</date>
+  <millis>1390552446686</millis>
+  <sequence>43</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>30</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:34:16</date>
+  <millis>1390552456689</millis>
+  <sequence>44</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>31</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:34:17</date>
+  <millis>1390552457191</millis>
+  <sequence>45</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>31</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:34:27</date>
+  <millis>1390552467194</millis>
+  <sequence>46</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>32</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:34:27</date>
+  <millis>1390552467695</millis>
+  <sequence>47</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>32</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:34:37</date>
+  <millis>1390552477697</millis>
+  <sequence>48</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>33</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:34:38</date>
+  <millis>1390552478198</millis>
+  <sequence>49</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>33</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:34:48</date>
+  <millis>1390552488210</millis>
+  <sequence>50</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>34</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:34:48</date>
+  <millis>1390552488712</millis>
+  <sequence>51</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>34</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:34:58</date>
+  <millis>1390552498716</millis>
+  <sequence>52</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>35</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:34:59</date>
+  <millis>1390552499218</millis>
+  <sequence>53</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>35</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:35:09</date>
+  <millis>1390552509224</millis>
+  <sequence>54</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>36</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:35:09</date>
+  <millis>1390552509726</millis>
+  <sequence>55</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>36</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:35:14</date>
+  <millis>1390552514681</millis>
+  <sequence>56</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>37</thread>
+  <message>performing connection reset</message>
+</record>
+<record>
+  <date>2014-01-24T09:35:15</date>
+  <millis>1390552515183</millis>
+  <sequence>57</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>37</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:35:15</date>
+  <millis>1390552515184</millis>
+  <sequence>58</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>SEVERE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>37</thread>
+  <message>connection to server failed:</message>
+  <exception>
+    <message>java.net.ConnectException: Connection refused</message>
+    <frame>
+      <class>java.net.PlainSocketImpl</class>
+      <method>socketConnect</method>
+    </frame>
+    <frame>
+      <class>java.net.AbstractPlainSocketImpl</class>
+      <method>doConnect</method>
+      <line>327</line>
+    </frame>
+    <frame>
+      <class>java.net.AbstractPlainSocketImpl</class>
+      <method>connectToAddress</method>
+      <line>193</line>
+    </frame>
+    <frame>
+      <class>java.net.AbstractPlainSocketImpl</class>
+      <method>connect</method>
+      <line>180</line>
+    </frame>
+    <frame>
+      <class>java.net.SocksSocketImpl</class>
+      <method>connect</method>
+      <line>385</line>
+    </frame>
+    <frame>
+      <class>java.net.Socket</class>
+      <method>connect</method>
+      <line>546</line>
+    </frame>
+    <frame>
+      <class>java.net.Socket</class>
+      <method>connect</method>
+      <line>495</line>
+    </frame>
+    <frame>
+      <class>java.net.Socket</class>
+      <method>&lt;init&gt;</method>
+      <line>392</line>
+    </frame>
+    <frame>
+      <class>java.net.Socket</class>
+      <method>&lt;init&gt;</method>
+      <line>206</line>
+    </frame>
+    <frame>
+      <class>se.sics.tac.aw.TACReader</class>
+      <method>doConnect</method>
+      <line>124</line>
+    </frame>
+    <frame>
+      <class>se.sics.tac.aw.TACReader</class>
+      <method>init</method>
+      <line>49</line>
+    </frame>
+    <frame>
+      <class>se.sics.tac.aw.TACConnection</class>
+      <method>init</method>
+      <line>35</line>
+    </frame>
+    <frame>
+      <class>se.sics.tac.aw.TACAgent</class>
+      <method>connect</method>
+      <line>394</line>
+    </frame>
+    <frame>
+      <class>se.sics.tac.aw.TACAgent</class>
+      <method>reset</method>
+      <line>830</line>
+    </frame>
+    <frame>
+      <class>se.sics.tac.aw.TACReader</class>
+      <method>run</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>java.lang.Thread</class>
+      <method>run</method>
+      <line>701</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2014-01-24T09:35:15</date>
+  <millis>1390552515186</millis>
+  <sequence>59</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>WARNING</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>connect</method>
+  <thread>37</thread>
+  <message>could not connect to server localhost at port 8080 (will retry in 5 seconds)</message>
+</record>
+<record>
+  <date>2014-01-24T09:35:20</date>
+  <millis>1390552520187</millis>
+  <sequence>60</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>37</thread>
+  <message>Connecting to server localhost:8080</message>
+</record>
+<record>
+  <date>2014-01-24T09:35:20</date>
+  <millis>1390552520188</millis>
+  <sequence>61</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>SEVERE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>37</thread>
+  <message>connection to server failed:</message>
+  <exception>
+    <message>java.net.ConnectException: Connection refused</message>
+    <frame>
+      <class>java.net.PlainSocketImpl</class>
+      <method>socketConnect</method>
+    </frame>
+    <frame>
+      <class>java.net.AbstractPlainSocketImpl</class>
+      <method>doConnect</method>
+      <line>327</line>
+    </frame>
+    <frame>
+      <class>java.net.AbstractPlainSocketImpl</class>
+      <method>connectToAddress</method>
+      <line>193</line>
+    </frame>
+    <frame>
+      <class>java.net.AbstractPlainSocketImpl</class>
+      <method>connect</method>
+      <line>180</line>
+    </frame>
+    <frame>
+      <class>java.net.SocksSocketImpl</class>
+      <method>connect</method>
+      <line>385</line>
+    </frame>
+    <frame>
+      <class>java.net.Socket</class>
+      <method>connect</method>
+      <line>546</line>
+    </frame>
+    <frame>
+      <class>java.net.Socket</class>
+      <method>connect</method>
+      <line>495</line>
+    </frame>
+    <frame>
+      <class>java.net.Socket</class>
+      <method>&lt;init&gt;</method>
+      <line>392</line>
+    </frame>
+    <frame>
+      <class>java.net.Socket</class>
+      <method>&lt;init&gt;</method>
+      <line>206</line>
+    </frame>
+    <frame>
+      <class>se.sics.tac.aw.TACReader</class>
+      <method>doConnect</method>
+      <line>124</line>
+    </frame>
+    <frame>
+      <class>se.sics.tac.aw.TACReader</class>
+      <method>init</method>
+      <line>49</line>
+    </frame>
+    <frame>
+      <class>se.sics.tac.aw.TACConnection</class>
+      <method>init</method>
+      <line>35</line>
+    </frame>
+    <frame>
+      <class>se.sics.tac.aw.TACAgent</class>
+      <method>connect</method>
+      <line>394</line>
+    </frame>
+    <frame>
+      <class>se.sics.tac.aw.TACAgent</class>
+      <method>reset</method>
+      <line>830</line>
+    </frame>
+    <frame>
+      <class>se.sics.tac.aw.TACReader</class>
+      <method>run</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>java.lang.Thread</class>
+      <method>run</method>
+      <line>701</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2014-01-24T09:35:20</date>
+  <millis>1390552520190</millis>
+  <sequence>62</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>WARNING</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>connect</method>
+  <thread>37</thread>
+  <message>could not connect to server localhost at port 8080 (will retry in 5 seconds)</message>
+</record>
+</log>

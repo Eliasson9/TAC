@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-24T09:17:58</date>
+  <millis>1390551478642</millis>
+  <sequence>0</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Starting TAC AgentWare version Beta 9</message>
+</record>
+<record>
+  <date>2014-01-24T09:17:58</date>
+  <millis>1390551478642</millis>
+  <sequence>1</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Using agent implementation se.sics.tac.aw.DummyAgent</message>
+</record>
+<record>
+  <date>2014-01-24T09:17:58</date>
+  <millis>1390551478642</millis>
+  <sequence>2</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Using TAC server tac1.sics.se at port 6500</message>
+</record>
+<record>
+  <date>2014-01-24T09:17:58</date>
+  <millis>1390551478643</millis>
+  <sequence>3</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>SEVERE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>connect</method>
+  <thread>10</thread>
+  <message>could not create TACConnection object of class localhost:8080</message>
+  <exception>
+    <message>java.lang.ClassNotFoundException: localhost:8080</message>
+    <frame>
+      <class>java.net.URLClassLoader$1</class>
+      <method>run</method>
+      <line>217</line>
+    </frame>
+    <frame>
+      <class>java.security.AccessController</class>
+      <method>doPrivileged</method>
+    </frame>
+    <frame>
+      <class>java.net.URLClassLoader</class>
+      <method>findClass</method>
+      <line>205</line>
+    </frame>
+    <frame>
+      <class>java.lang.ClassLoader</class>
+      <method>loadClass</method>
+      <line>323</line>
+    </frame>
+    <frame>
+      <class>sun.misc.Launcher$AppClassLoader</class>
+      <method>loadClass</method>
+      <line>294</line>
+    </frame>
+    <frame>
+      <class>java.lang.ClassLoader</class>
+      <method>loadClass</method>
+      <line>268</line>
+    </frame>
+    <frame>
+      <class>java.lang.Class</class>
+      <method>forName0</method>
+    </frame>
+    <frame>
+      <class>java.lang.Class</class>
+      <method>forName</method>
+      <line>190</line>
+    </frame>
+    <frame>
+      <class>se.sics.tac.aw.TACAgent</class>
+      <method>connect</method>
+      <line>386</line>
+    </frame>
+    <frame>
+      <class>se.sics.tac.aw.TACAgent</class>
+      <method>&lt;init&gt;</method>
+      <line>341</line>
+    </frame>
+    <frame>
+      <class>se.sics.tac.aw.TACAgent</class>
+      <method>main</method>
+      <line>2176</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2014-01-24T09:17:58</date>
+  <millis>1390551478644</millis>
+  <sequence>4</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>SEVERE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>fatalError</method>
+  <thread>10</thread>
+  <message>************************************************************</message>
+</record>
+<record>
+  <date>2014-01-24T09:17:58</date>
+  <millis>1390551478644</millis>
+  <sequence>5</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>SEVERE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>fatalError</method>
+  <thread>10</thread>
+  <message>* FATAL ERROR: no TACConnection  available</message>
+</record>
+<record>
+  <date>2014-01-24T09:17:58</date>
+  <millis>1390551478644</millis>
+  <sequence>6</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>SEVERE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>fatalError</method>
+  <thread>10</thread>
+  <message>************************************************************</message>
+</record>
+</log>
