@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-24T09:22:22</date>
+  <millis>1390551742980</millis>
+  <sequence>0</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Starting TAC AgentWare version Beta 9</message>
+</record>
+<record>
+  <date>2014-01-24T09:22:22</date>
+  <millis>1390551742980</millis>
+  <sequence>1</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Using agent implementation se.sics.tac.aw.DummyAgent</message>
+</record>
+<record>
+  <date>2014-01-24T09:22:22</date>
+  <millis>1390551742980</millis>
+  <sequence>2</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Using TAC server tac1.sics.se at port 6500</message>
+</record>
+<record>
+  <date>2014-01-24T09:22:22</date>
+  <millis>1390551742982</millis>
+  <sequence>3</sequence>
+  <logger>se.sics.tac.aw.TACReader</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACReader</class>
+  <method>doConnect</method>
+  <thread>10</thread>
+  <message>Connecting to server tac1.sics.se:6500</message>
+</record>
+<record>
+  <date>2014-01-24T09:22:23</date>
+  <millis>1390551743088</millis>
+  <sequence>4</sequence>
+  <logger>se.sics.tac.aw.TACMessage</logger>
+  <level>FINEST</level>
+  <class>se.sics.tac.aw.TACMessage</class>
+  <method>setReceivedMessage</method>
+  <thread>11</thread>
+  <message>XML out: '&lt;auth&gt;&lt;userName&gt;plr&lt;/userName&gt;&lt;userPW&gt;tac123&lt;/userPW&gt;&lt;/auth&gt;'</message>
+</record>
+<record>
+  <date>2014-01-24T09:22:23</date>
+  <millis>1390551743088</millis>
+  <sequence>5</sequence>
+  <logger>se.sics.tac.aw.TACMessage</logger>
+  <level>FINEST</level>
+  <class>se.sics.tac.aw.TACMessage</class>
+  <method>setReceivedMessage</method>
+  <thread>11</thread>
+  <message>XML in: '&lt;?xml version="1.0"?&gt;&lt;auth&gt;&lt;userID&gt;31526&lt;/userID&gt;&lt;commandStatus&gt;0&lt;/commandStatus&gt;&lt;/auth&gt;' responseTime: 73 avg: 73.0 count: 1</message>
+</record>
+<record>
+  <date>2014-01-24T09:22:23</date>
+  <millis>1390551743088</millis>
+  <sequence>6</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>handleLogin</method>
+  <thread>11</thread>
+  <message>Logged in as 31526</message>
+</record>
+<record>
+  <date>2014-01-24T09:22:23</date>
+  <millis>1390551743103</millis>
+  <sequence>7</sequence>
+  <logger>se.sics.tac.aw.TACMessage</logger>
+  <level>FINEST</level>
+  <class>se.sics.tac.aw.TACMessage</class>
+  <method>setReceivedMessage</method>
+  <thread>11</thread>
+  <message>XML out: '&lt;serverTime&gt;&lt;/serverTime&gt;'</message>
+</record>
+<record>
+  <date>2014-01-24T09:22:23</date>
+  <millis>1390551743103</millis>
+  <sequence>8</sequence>
+  <logger>se.sics.tac.aw.TACMessage</logger>
+  <level>FINEST</level>
+  <class>se.sics.tac.aw.TACMessage</class>
+  <method>setReceivedMessage</method>
+  <thread>11</thread>
+  <message>XML in: '&lt;?xml version="1.0"?&gt;&lt;serverTime&gt;&lt;time&gt;1390551743&lt;/time&gt;&lt;commandStatus&gt;0&lt;/commandStatus&gt;&lt;/serverTime&gt;' responseTime: 15 avg: 44.0 count: 2</message>
+</record>
+<record>
+  <date>2014-01-24T09:22:23</date>
+  <millis>1390551743103</millis>
+  <sequence>9</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>handleServerTime</method>
+  <thread>11</thread>
+  <message>Setting server time diff to 0 seconds</message>
+</record>
+<record>
+  <date>2014-01-24T09:22:23</date>
+  <millis>1390551743117</millis>
+  <sequence>10</sequence>
+  <logger>se.sics.tac.aw.TACMessage</logger>
+  <level>FINEST</level>
+  <class>se.sics.tac.aw.TACMessage</class>
+  <method>setReceivedMessage</method>
+  <thread>11</thread>
+  <message>XML out: '&lt;nextGame&gt;&lt;/nextGame&gt;'</message>
+</record>
+<record>
+  <date>2014-01-24T09:22:23</date>
+  <millis>1390551743117</millis>
+  <sequence>11</sequence>
+  <logger>se.sics.tac.aw.TACMessage</logger>
+  <level>FINEST</level>
+  <class>se.sics.tac.aw.TACMessage</class>
+  <method>setReceivedMessage</method>
+  <thread>11</thread>
+  <message>XML in: '&lt;?xml version="1.0"?&gt;&lt;nextGame&gt;&lt;gameID&gt;87513&lt;/gameID&gt;&lt;startTime&gt;1390551840&lt;/startTime&gt;&lt;gameType&gt;0&lt;/gameType&gt;&lt;commandStatus&gt;0&lt;/commandStatus&gt;&lt;/nextGame&gt;' responseTime: 29 avg: 39.0 count: 3</message>
+</record>
+<record>
+  <date>2014-01-24T09:22:23</date>
+  <millis>1390551743117</millis>
+  <sequence>12</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>handleNextGame</method>
+  <thread>11</thread>
+  <message>Next Game -&gt; 87513 (should wait 96)</message>
+</record>
+<record>
+  <date>2014-01-24T09:22:23</date>
+  <millis>1390551743117</millis>
+  <sequence>13</sequence>
+  <logger>se.sics.tac.aw.TACAgent</logger>
+  <level>FINE</level>
+  <class>se.sics.tac.aw.TACAgent</class>
+  <method>reset</method>
+  <thread>11</thread>
+  <message>performing connection reset</message>
+</record>
+</log>
